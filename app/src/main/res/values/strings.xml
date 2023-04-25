@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidTechnicalTestCanary</string>
+    <string name="label_user">Nombre y apellidos</string>
+    <string name="label_password">Contraseña</string>
+    <string name="label_email">Email</string>
+    <string name="label_date">Fecha</string>
+</resources>
